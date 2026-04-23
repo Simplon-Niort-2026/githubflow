@@ -32,4 +32,4 @@ Lorsqu'un développeur travaillant sur une branche a terminé la fonctionnalité
 ---
 ## Qu'est-ce qu'une _Code Review_ ?
 
-Une code review, ou revue de code en français, est réaliser par un ou plusieurs membre(s) tier(s) de l'équipe travaillant sur le projet et à pour objectif de déceler des bugs ou des erreurs dans le code, améliorer la qualité et la sécurité du code en examinant le code source de l'auteur de la pull request.
+Une code review, ou revue de code en français, est réalisée par un ou plusieurs membre(s) tier(s) de l'équipe travaillant sur le projet et a pour objectif de déceler des bugs ou des erreurs dans le code, améliorer la qualité et la sécurité du code en examinant le code source de l'auteur de la pull request.
