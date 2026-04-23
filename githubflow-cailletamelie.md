@@ -3,7 +3,7 @@ Afin de travailler à plusieurs sur une même fonctionnalité sans modifier la b
 ## Pourquoi éviter de créer une seule branche par personne ?
 Parce qu'une branche doit représenter une fonctionnalité. On peut ainsi avoir une traçabilité et on conserve le principe une branche = une feature.
 ## Qu'est-ce qu'un workflow ?
-C'est un ensemble de règles et de conventions qui définissent comment utiliser Git en équipe: comment nommer les branches, quand merger, qui valide le code, etc. 
+C'est un ensemble de règles et de conventions qui définissent comment collaborer en équipe, dans le cadre de git par exemple : comment nommer les branches, quand merger, qui valide le code, etc. 
 ## Quand créer une branche avec le GitHub Flow ?
 Dés que l'on commence à travailler sur quelque chose : une nouvelle fonctionnalité, une correction de bug, une amélioration, une expérimentation...
 ## Qu'est-ce qu'une _Pull Request_ ?
