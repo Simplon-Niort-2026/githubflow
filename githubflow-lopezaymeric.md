@@ -27,7 +27,7 @@ On va au préalable créer des issues pour les différentes fonctionnalités qu'
 ---
 ## Qu'est-ce qu'une _Pull Request_ ?
 
-Lorsqu'un développeur travaillant sur une branche a terminer la fonctionnalité prévu pour celle-ci, il va créer une pull request qui va permettre à ses collaborateurs de faire une review de son travail et de pouvoir echnager à propos de la branche en question.
+Lorsqu'un développeur travaillant sur une branche a terminé la fonctionnalité prévu pour celle-ci, il va créer une pull request qui va permettre à ses collaborateurs de faire une review de son travail et de pouvoir echanger à propos de la branche en question.
 
 ---
 ## Qu'est-ce qu'une _Code Review_ ?
