@@ -15,4 +15,4 @@ Qu'est-ce qu'une Pull Request ?
 C'est la dernière étape avant de pousser son code sur une autre branche, elle va permettre de faire vérifier son code par un reviewer et aussi gérer les éventuels conflits 
 
 Qu'est-ce qu'une Code Review ?
-C'est le fait de faire une relecture d'un code d'une pull request, de vérifier qu'il n'y à pas d'incohérences, que celui ci est propre et fonctionnel. Ainsi on évite au maximum les érreurs.
+C'est le fait de faire une relecture d'un code d'une pull request, de vérifier qu'il n'y a pas d'incohérences, que celui-ci est propre et fonctionnel. Ainsi on évite au maximum les erreurs.
