@@ -2,7 +2,7 @@
 
 1. Ouvre le projet lié à ce brief
 2. Crée une *Issue* au format `nomprenom`
-3. Crée une branche à partir de l'issue
+3. Crée une branche à partir de l'issue au format `feature/x-nom-de-l-issue`
 4. Clone le projet et bascule sur ta branche
 5. Crée un document au format `githubflow-nomprenom.md` contenant ton travail de recherche effectué précédemment
 6. Commit et push le fichier
