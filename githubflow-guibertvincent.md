@@ -4,7 +4,7 @@ Pour éviter les conflits sur le code éffectuer et pour pouvoir revenir en arri
 
 ### Pourquoi éviter de créer une seule branche par personne ?
 
-Afin de ne pas avoir tout le travail d'une personne au même endroit et aussi pouvoir travailler a plusieur/reprndre le travail de quelqu'un
+Afin de ne pas avoir tout le travail d'une personne au même endroit et aussi pouvoir travailler à plusieurs/reprendre le travail de quelqu'un
 
 ### Qu'est-ce qu'un workflow ?
 
